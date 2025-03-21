@@ -3,19 +3,17 @@
 Book a Shipment is a mobile application built with Flutter, designed to provide a seamless UI for booking shipments. It integrates a REST API to fetch real-time shipping rates, making the booking process efficient and user-friendly.
 
 🎯 Features
-✅ Modern & Intuitive UI - Clean and responsive user interface for booking shipments.
-✅ API Integration - Fetches real-time shipping rates using REST API.
-✅ Form Validation - Ensures valid input for shipment details.
-✅ Flutter Framework - Built with Flutter for cross-platform support (Android & iOS).
-✅ Error Handling - Displays appropriate messages for API failures or validation errors.
+Modern & Intuitive UI - Clean and responsive user interface for booking shipments.
+API Integration - Fetches real-time shipping rates using REST API.
+Form Validation - Ensures valid input for shipment details.
+Flutter Framework - Built with Flutter for cross-platform support (Android & iOS).
+Error Handling - Displays appropriate messages for API failures or validation errors.
 
 🛠️ Tech Stack
 Flutter (Dart) - Frontend UI development
 REST API - Integrated for fetching shipping rates
 Provider / Riverpod (if used) - State management
-Dio / HTTP (if used) - API handling
-📸 Screenshots
-Add screenshots or a demo GIF here to showcase the app
+HTTP - API handling
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
